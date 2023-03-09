@@ -1,0 +1,29 @@
+/* .navbar  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 4px solid black;
+    position: fixed;
+    top: 0;
+    overflow: hidden;
+    z-index: 1;
+    padding: 10px;
+    background-color: #fff;
+    opacity: 0.9;
+    
+  
+    
+  }
+
+  .navbar  ul  {
+    list-style: none;
+    padding: 14px;
+    display: flex;
+  }
+
+   li { 
+    padding: 14px;
+  }
+  li:hover {
+    color: #ef4444;
+  } */
